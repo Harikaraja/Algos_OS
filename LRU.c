@@ -1,4 +1,4 @@
-[10:45 am, 29/06/2022] harika😊: #include<stdio.h>
+ #include<stdio.h>
 int counter[100],temp=0,fts=0;
 int main()
 {
