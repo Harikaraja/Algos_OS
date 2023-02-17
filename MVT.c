@@ -9,13 +9,13 @@ void	print(int i,int available){
 			    		
 			    		printf("process  %d :  %d     %d\n",k,allocated[k][0],allocated[k][1]);
 					}
-                    for(int k=0;k<i;k++)
+                                 for(int k=0;k<i;k++)
 			    	{
 			    		if(freem[k][1]-freem[k][0]!=0)
 			    		printf("freelocation  %d : %d \t %d\n",k,freem[k][0],freem[k][1]);
 					}
 					printf("\nExternal fragmentation:%d",available);
-}
+                                }
 				
 int main()
 {
