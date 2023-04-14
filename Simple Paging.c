@@ -1,4 +1,4 @@
-[4:16 pm, 08/08/2022] harika😊: #include<stdio.h>
+#include<stdio.h>
 int main()
 {
 int psize,pgsize,no_pages,memory,no_frames,log_address,phy_address;

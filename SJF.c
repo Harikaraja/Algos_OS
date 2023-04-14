@@ -1,4 +1,4 @@
-[10:51 am, 29/06/2022] harika😊: #include<stdio.h>
+#include<stdio.h>
 int fts =0;
 struct process
 {
